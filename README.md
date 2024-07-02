@@ -13,6 +13,14 @@ This project is a ToDo List API developed as part of an online Java course taugh
 - **Spring Boot**: Framework for building the API.
 - **Maven**: Build automation tool.
 - **Docker**: Containerization platform.
+- **Lombok**: Reduces boilerplate code.
+- **H2 Database Engine**: In-memory database for development and testing.
+
+## Additional Implementations
+
+- **User Data Security**: Implementing security measures for user data.
+- **Exception Handling**: Robust error and exception management.
+- **Backend Deployment**: Deploying the backend to a production environment.
 
 ## Folder Structure
 
